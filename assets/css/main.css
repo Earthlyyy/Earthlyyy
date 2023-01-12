@@ -2714,3 +2714,12 @@ section {
 .footer .credits a {
   color: #fff;
 }
+
+.asu {
+  padding: 14px 45px;
+    padding-top: 14px;
+    padding-right: 45px;
+    padding-bottom: 14px;
+    padding-left: 45px;
+  border-radius: 50px;
+}
